@@ -12,4 +12,6 @@ ls
 cp -r mail.php /sdcard/php/
 cp -r wt.jpg /sdcard/php/
 cd /sdcard/php/
+figlet Prince Yasin |lolcat|lolcat
+figlet Email-Spoofer |lolcat|lolcat
 php -S localhost:4444 -t /sdcard/php
